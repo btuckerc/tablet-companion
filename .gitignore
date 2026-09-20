@@ -1,0 +1,13 @@
+.build/
+.local/
+Tablet Companion.app/
+.DS_Store
+__pycache__/
+.swiftpm/
+.env*
+*.key
+*.p12
+*.p8
+*.mobileprovision
+*.zip
+*.dmg
